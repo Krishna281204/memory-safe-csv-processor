@@ -1,0 +1,30 @@
+# Compiled Java class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# IDE folders
+.idea/
+.vscode/
+*.iml
+
+# Build folders
+target/
+out/
+build/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Generated CSV datasets
+large_input.csv
+
+# Temporary files
+*.tmp
